@@ -1,0 +1,424 @@
+# Translation of Themes - Coral Dark in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Coral Dark package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-28 05:44:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Coral Dark\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Coral Dark is a free responsive theme with one-column or two-column layout, and built-in slideshow. The theme is optimized for SEO, and suitable e.g. for a portfolio gallery site or a photo blog that can be spectacular with its dark, black background. You can find a demo site here: https://www.coralthemes.com/demo/coraldark/ . More info can be found here: https://www.coralthemes.com/product/coral-dark-wordpress-theme/ . Further customization options are available in the pro version: https://www.coralthemes.com/product/coral-dark-pro-wordpress-theme/ ."
+msgstr "Coral Dark es un tema gratuito adaptable con diseño de una o dos columnas y carrusel incorporado. El tema está optimizado para SEO y es adecuado para, por ejemplo, un sitio de galería de porfolio o un blog de fotos que puede ser espectacular con su fondo negro oscuro. Puedes encontrar un sitio de demostración aquí: https://www.coralthemes.com/demo/coraldark/. También puedes encontrar más información aquí: https://www.coralthemes.com/product/coral-dark-wordpress-theme/. Otras opciones de personalización están disponibles en la versión pro: https://www.coralthemes.com/product/coral-dark-pro-wordpress-theme/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Coral Dark"
+msgstr "Coral Dark"
+
+#: footer.php:19
+msgid "Free dark wordpress theme"
+msgstr "Tema oscuro gratuito para WordPress"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en «%s»"
+
+#: header.php:50
+msgid "Footer Social Links Menu"
+msgstr "Menú de enlaces sociales del pie de página"
+
+#: functions.php:73
+msgid "Social Links Menu"
+msgstr "Menú de enlaces sociales"
+
+#. Template Name of the theme
+msgid "Full width page"
+msgstr "Página de ancho completo"
+
+#: single.php:19
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: single.php:18
+msgid "Next post"
+msgstr "Entrada siguiente"
+
+#: single.php:17
+msgid "Previous post"
+msgstr "Entrada anterior"
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Buscar..."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/template-tags.php:81
+msgid "Tags: %1$s"
+msgstr "Etiquetas: %1$s"
+
+#: inc/template-tags.php:75
+msgid "Categories: %1$s"
+msgstr "Categorías: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:73 inc/template-tags.php:79
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:68
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: inc/template-tags.php:63
+msgid "Categories:"
+msgstr "Categorías: "
+
+#: inc/template-tags.php:56
+msgid "Updated: %1$s"
+msgstr "Actualizado: %1$s"
+
+#: inc/template-tags.php:34
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:34
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:34
+msgid "Leave a comment"
+msgstr "Dejar un comentario"
+
+#: inc/customizer.php:737
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer.php:725
+msgid "Tagline Color"
+msgstr "Color de la descripción corta"
+
+#: inc/customizer.php:714
+msgid "Site title color"
+msgstr "Color del título del sitio"
+
+#: inc/customizer.php:705
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/customizer.php:698
+msgid "Slider image 4"
+msgstr "Imagen 4 del carrusel"
+
+#: inc/customizer.php:685
+msgid "Slide title 4"
+msgstr "Título de la diapositiva 4"
+
+#: inc/customizer.php:673
+msgid "Slider image 3"
+msgstr "Imagen 3 del carrusel"
+
+#: inc/customizer.php:660
+msgid "Slide title 3"
+msgstr "Título de la diapositiva 3"
+
+#: inc/customizer.php:648
+msgid "Slider image 2"
+msgstr "Imagen 2 del carrusel"
+
+#: inc/customizer.php:634
+msgid "Slide title 2"
+msgstr "Título de la diapositiva 2"
+
+#: inc/customizer.php:622
+msgid "Slider image 1"
+msgstr "Imagen 1 del carrusel"
+
+#: inc/customizer.php:609 inc/customizer.php:635 inc/customizer.php:661
+#: inc/customizer.php:686
+msgid "Choose a page for the slide title, to which the title is also linked"
+msgstr "Elige una página para el título de la diapositiva, a la que también se enlaza el título"
+
+#: inc/customizer.php:608
+msgid "Slide title 1"
+msgstr "Título de la diapositiva 1"
+
+#: inc/customizer.php:596
+msgid "Pause time (mS)"
+msgstr "Tiempo de pausa (mS)"
+
+#: inc/customizer.php:585
+msgid "Animation speed (mS)"
+msgstr "Velocidad de animación (mS)"
+
+#: inc/customizer.php:554
+msgid "Slideshow effect"
+msgstr "Efecto de la presentación de diapositivas"
+
+#: inc/customizer.php:542
+msgid "Comma separated IDs of posts/pages for which you need the slideshow (e.g. 1, 23, 54)."
+msgstr "ID separados por coma de las entradas o páginas en las que necesitas la presentación de diapositivas (por ejemplo: 1, 23, 54)."
+
+#: inc/customizer.php:530
+msgid "Always display the slideshow"
+msgstr "Mostrar siempre la presentación de diapositivas"
+
+#: inc/customizer.php:518
+msgid "Display slideshow on frontpage"
+msgstr "Mostrar la presentación de diapositivas en la portada"
+
+#: inc/customizer.php:510
+msgid "Upload at least 980px wide images with the same aspect ratio!"
+msgstr "¡Sube imágenes de, al menos, 980px de ancho con la misma relación de aspecto!"
+
+#: inc/customizer.php:508
+msgid "Slideshow"
+msgstr "Pase de diapositivas"
+
+#: inc/customizer.php:497
+msgid "The h1, h2... fontsizes are based on the body fontsize"
+msgstr "Los tamaños de fuente de h1, h2... se basan en el tamaño de la fuente del cuerpo"
+
+#: inc/customizer.php:496
+msgid "Heading font"
+msgstr "Fuente del encabezado"
+
+#: inc/customizer.php:483
+msgid "Body fontsize:"
+msgstr "Tamaño de la fuente del cuerpo:"
+
+#: inc/customizer.php:465
+msgid "Body font"
+msgstr "Fuente del cuerpo"
+
+#: inc/customizer.php:452
+msgid "Tagline fontsize:"
+msgstr "Tamaño de la fuente de la descripción corta:"
+
+#: inc/customizer.php:437
+msgid "Tagline font"
+msgstr "Fuente de la descripción corta"
+
+#: inc/customizer.php:424
+msgid "Site title fontsize:"
+msgstr "Tamaño de la fuente del título del sitio:"
+
+#: inc/customizer.php:406
+msgid "Site title font"
+msgstr "Fuente del título del sitio"
+
+#: inc/customizer.php:382
+msgid "Here you can set up the typography with basic web safe fonts"
+msgstr "Aquí puedes configurar la tipografía con fuentes básicas seguras para la web"
+
+#: inc/customizer.php:380
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer.php:370
+msgid "Sidebar width:"
+msgstr "Ancho de la barra lateral:"
+
+#: inc/customizer.php:339
+msgid "Vertical position (margin-top) of the topmenu"
+msgstr "Posición vertical (margen superior) del menú superior"
+
+#: inc/customizer.php:326
+msgid "Vertical position (margin-top) of the search box"
+msgstr "Posición vertical (margen superior) del cuadro de búsqueda"
+
+#: inc/customizer.php:313
+msgid "Percentage of the place on the side of the logo text. (Here the full right side is 100%, but leave enough place for the social icons!)"
+msgstr "Porcentaje del lugar al lado del texto del logotipo. (Aquí el lado derecho completo es 100%, ¡pero deja suficiente espacio para los iconos sociales!)"
+
+#: inc/customizer.php:312
+msgid "Width of the search form:"
+msgstr "Ancho del formulario de búsqueda:"
+
+#: inc/customizer.php:279
+msgid "No"
+msgstr "No"
+
+#: inc/customizer.php:272
+msgid "Display search form?"
+msgstr "¿Mostar el formulario de búsqueda?"
+
+#: inc/customizer.php:258
+msgid "Vertical position (margin-top) of the social icons"
+msgstr "Posición vertical (margen superior) de los iconos sociales"
+
+#: inc/customizer.php:248
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/customizer.php:238
+msgid "Vertical position (margin-top) of the tagline"
+msgstr "Posición vertical (margen superior) de la descripción corta"
+
+#: inc/customizer.php:225
+msgid "Vertical position (margin-top) of the site title"
+msgstr "Posición vertical (margen superior) del título del sitio"
+
+#: inc/customizer.php:209
+msgid "Tagline"
+msgstr "Descripción corta"
+
+#: inc/customizer.php:196 inc/customizer.php:210
+msgid "This is displayed only if you do not upload an image logo"
+msgstr "Esto solo se muestra si no subes una imagen del logotipo"
+
+#: inc/customizer.php:195
+msgid "Site Title"
+msgstr "Título del sitio"
+
+#: inc/customizer.php:180
+msgid "Max. height of the logo image"
+msgstr "Alto máximo de la imagen del logotipo"
+
+#: inc/customizer.php:163
+msgid "This also affects the place width of the social icons and the search form."
+msgstr "Esto también afecta al ancho del lugar de los iconos sociales y al formulario de búsqueda."
+
+#: inc/customizer.php:162
+msgid "Max. width of the logo image or text (site title and tagline):"
+msgstr "Ancho máximo de la imagen del logotipo o el texto (título del sitio y descripción corta):"
+
+#: inc/customizer.php:140
+msgid "Logo, Site Title, Tagline, Site Icon"
+msgstr "Logotipo, título del sitio, descripción corta, icono del sitio"
+
+#: inc/customizer.php:82
+msgid "No, I want to display my own images"
+msgstr "No, quiero mostrar mis propias imágenes"
+
+#: inc/customizer.php:81 inc/customizer.php:278
+msgid "Yes"
+msgstr "Sí"
+
+#: header.php:70
+msgid "  Menu"
+msgstr "  Menú"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:528
+msgid "Medium-Large"
+msgstr "Mediano-grande"
+
+#: functions.php:424
+msgid "Home"
+msgstr "Inicio"
+
+#: functions.php:122
+msgid "Footer"
+msgstr "Pie de página "
+
+#: functions.php:113
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: content.php:24
+msgid "Read more %s <i class=\"read-more\"></i>"
+msgstr "Leer más %s <i class=\"read-more\"></i>"
+
+#: content-page.php:27 inc/template-tags.php:37
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:20 content-single.php:30 content.php:31
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:53 comments.php:70
+msgid "Newer Comments"
+msgstr "Comentarios siguientes"
+
+#: comments.php:52 comments.php:69
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:51 comments.php:68
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.coralthemes.com"
+msgstr "https://www.coralthemes.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Coralthemes"
+msgstr "Coralthemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.coralthemes.com/product/coral-dark-wordpress-theme/"
+msgstr "https://www.coralthemes.com/product/coral-dark-wordpress-theme/"
